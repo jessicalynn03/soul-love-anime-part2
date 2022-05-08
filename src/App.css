@@ -1,0 +1,47 @@
+body {
+  /* background-image: url("https://recommendmeanime.com/wp-content/uploads/2018/05/its-difficult-to-love-an-otaku.jpg"); */
+  background: maroon;
+  /* background-size: cover; */
+  /* background-position: center;
+  background-repeat: no-repeat; */
+  color: white;
+  }
+  
+  .App {
+    text-align: center;
+
+  }
+  
+  li {
+    display: inline;
+    padding: 20px;
+    margin: 50px;
+    text-align: center; 
+  }
+
+  .anime-info {
+    display: flex;
+  }
+  
+  .help-page {
+    border: 2px solid black;
+    margin: 50px;
+    padding: 25px;
+    background-color: black;
+  }
+  
+  /* .comment-input {
+    width: 400px;
+    height: 200px;
+  } */
+  
+  .comment-post {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+ 
+  p {
+    margin: 50px;
+    padding: 25px;
+  }
