@@ -5,6 +5,14 @@
 ![page 2 wireframe](blogpostwireframe.png)
 
 1. User Story 
+- The user will have the ability to select any anime on the list of animes displayed on the home page upon clicking the title located below the anime cover. 
+
+- The user will then be directed to a blog page where they can create a blog. 
+
+- User can also navigate to different pages by clicking any of the nav bars located above the title of the browser. 
+
+
+2. Stretch Goals
 
 - The user will have the ability to select any anime  on the animes displayed on the home page upon click. 
 
