@@ -21,6 +21,7 @@ body {
 
   .anime-info {
     display: flex;
+    flex-direction: column;
   }
   
   .help-page {
