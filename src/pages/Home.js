@@ -16,7 +16,7 @@ function Home(props) {
     console.log(props);
     let animeJSX = props.animeInfo.map(anime => (
         <li>
-            {anime.cover}
+            <Link onClick={props.setAnime(anime)} to="/AnimeShow"> {anime.cover} </Link>
             <Link onClick={props.setAnime(anime)} to="/AnimeShow"> Title: {anime.name} </Link>
         </li>
     ))

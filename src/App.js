@@ -1,5 +1,4 @@
 import './App.css';
-import AnimeBlog from './components/AnimeBlog';
 import AnimeShow from './components/AnimeShow';
 import Header from './components/Header';
 import Author from './pages/Author';
